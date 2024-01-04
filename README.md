@@ -29,7 +29,9 @@ To assess vaccination progress, I correlated population data with vaccination st
 
 # Methods Used
 SQL: Leveraged SQL queries to extract, manipulate, and analyze data from the CovidDeaths and CovidVaccinations tables.
+
 Calculations: Utilized mathematical calculations to derive meaningful metrics, such as death percentage and percentage of population infected.
+
 Views and Temporary Tables: Employed views and temporary tables for better organization and abstraction of complex queries.
 
 # Results
